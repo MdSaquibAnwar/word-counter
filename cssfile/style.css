@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    padding: 50px 100px;
+
+}
+h1{
+    text-align: center;
+    background: radial-gradient(circle,rgba(165, 111, 111, 0.5),rgba(61, 112, 149, 0.578),rgba(198, 18, 48, 0.4),rgba(115, 209, 246, 0.3),rgba(164, 49, 98, 0.39));
+    color: rgba(255, 255, 255, 0.9);
+    padding: 10px;
+    margin:0px;
+
+}
+#textbox{
+    width: 99.9%;
+    border: radial-gradient(circle,rgba(165, 111, 111, 0.5),rgba(61, 112, 149, 0.578),rgba(198, 18, 48, 0.4),rgba(115, 209, 246, 0.3),rgba(164, 49, 98, 0.39));
+    font-size: 1.6em;   
+}
+p{
+    text-align: center;
+    background: radial-gradient(circle,rgba(194, 58, 58, 0.792),rgba(79, 159, 217, 0.792),rgba(198, 18, 48, 0.811),rgba(115, 209, 246, 0.3),rgba(201, 16, 130, 0.76));
+    font-size: 1.6em;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    margin: 0px;  
+}
+
